@@ -1,6 +1,10 @@
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
+``` 
+Developed by: KAVINRAJA D
+RegisterNumber: 212222240047
+```
 
 **AIM:**
 
@@ -95,12 +99,7 @@ assign DIFF = a ^ b ^ Bin;
   assign BO = (a & b) | ((a ^ b) & Bin);
 endmodule
 
-
-Developed by: VARSHA A
-RegisterNumber: 212223220121
 ~~~
-
-*/
 
 **RTL Schematic**
 
